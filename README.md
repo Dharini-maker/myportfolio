@@ -95,7 +95,6 @@ Upload to GitHub Pages for free hosting.
 
             <br><br>
 
-            <a href="#contact">Contact Me</a>
         </center>
     </section>
 
@@ -227,19 +226,14 @@ Upload to GitHub Pages for free hosting.
                         </p>
 
                         <p>
-                            <b>Interests:</b>
-                            AI, Machine Learning, Programming
-                        </p>
-
-                        <p>
                             <b>GitHub:</b>
                             <a href="https://github.com/Dharini-maker">
-                                Visit My GitHub
+                               
                             </a>
                         </p>
 
                         <p>
-                            <b>Email:</b> Add your email address
+                            <b>Email:</b> dharinisubramani5@gmail.com
                         </p>
                     </center>
                 </section>
@@ -249,18 +243,9 @@ Upload to GitHub Pages for free hosting.
 
     <br>
 
-    <table width="100%" bgcolor="#222222" cellpadding="15">
-        <tr>
-            <td align="center">
-                <font color="white">
-                    Copyright 2026 Dharini S | All Rights Reserved
-                </font>
-            </td>
-        </tr>
-    </table>
-
 </body>
 </html>
+
 ```
 
 ## OUTPUT
